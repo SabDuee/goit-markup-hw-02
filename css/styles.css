@@ -1,0 +1,146 @@
+body {
+    background: #FFFFFF;
+    font-family: Roboto; Raleway; sans-serif;
+    font-style: normal;
+}
+.header-color {
+color:     #FFFFFF;
+}
+.color-web {
+    color: #2196F3;
+}
+.color-studio {
+
+}
+.webstudio-header {
+    font-family: Raleway;
+font-style: normal;
+font-weight: 700;
+text-decoration: none;
+}
+.footer-web {
+    color: #2196F3;
+}
+.footer-studio {
+color: #FFFFFF;
+}
+.button-nav {
+    color: rgba(33, 33, 33, 1);
+}
+
+.button-nav:hover,
+.button-nav:focus {
+    color: rgba(33, 150, 243, 1);
+}
+.text-nav {
+    font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+}
+.filters {
+    color: rgba(33, 33, 33, 1);
+background: rgba(245, 244, 250, 1);
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.03em;
+}
+.filters:hover,
+.filters:focus {
+    background: rgba(33, 150, 243, 1);
+}
+.bg-header-footer {
+    background: rgba(47, 48, 58, 1);
+}
+.main-color {
+    background: #E5E5E5;
+}
+.change-colorbg {
+    background: #E5E5E5;
+}
+.our-command-bg {
+    background: #F5F4FA;
+}
+.color-info-header {
+    font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #757575;
+}
+.main-text-h {
+    font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.main-text-p {
+    font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.heading {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 900;
+font-size: 44px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 0.06em;
+}
+.order-caption {
+    color: #FFFFFF;
+    background: #2196F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+}
+.about-command {
+    font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.about-command-section {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #757575;        
+}
+.webstudio-footer {
+    font-family: Raleway;
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.03em;
+text-decoration: none;
+}
+.address {
+    font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+
+}
+.info-footer {
+    font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);
+}
+.list {
+    text-decoration: none;
+}
