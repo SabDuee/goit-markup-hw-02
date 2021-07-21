@@ -41,21 +41,16 @@ color: #FFFFFF;
 
 }
 
-.button-nav:hover,
-.button-nav:focus {
-    color: var( --color-hover--);
-}
 .filter {
-    color: var(--color-black--);
- background: #FFFFFF;
+    color: #212121;
 font-weight: 500;
 line-height: 1.4;
-letter-spacing: 0.03em;
 }
-.filters:hover,
-.filters:focus {
-    background: var( --color-hover--);
+.filter-item {
+    color: var(--color-black--);
 }
+.filter-item:hover {
+    color: var(--color-hover--);
 }
 .main-color {
     background: #FFFFFF
@@ -148,6 +143,14 @@ font-style: normal;
 }
 .pointer-cursor {
     cursor: pointer;
+}
+
+.filter-text {
+    color: var(--color-black--);
+}
+.filter-text:focus,
+.filter-text:hover {
+    background: var(--color-hover--);
 }
 .logo {
     text-decoration: none;
