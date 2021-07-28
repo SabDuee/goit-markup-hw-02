@@ -44,7 +44,7 @@ img {
 .header-color {
   color: #ffffff;
   border-bottom: 1px solid #ececec;
-  margin-bottom: 94px;
+  height: 80px;
 }
 .color-web {
   font-family: Raleway;
@@ -137,6 +137,9 @@ img {
   align-items: center;
   text-align: center;
   background: #2f303a;
+  display: flex;
+  flex-direction: column;
+  max-width: 1600px;
 
   margin-left: auto;
   margin-right: auto;
@@ -324,7 +327,7 @@ img {
   margin-left: 50px;
 }
 .contacts-link {
-  color: var(--color-black--);
+  color: #757575;
 }
 .contacts-link:hover,
 .contacts-link:focus {
